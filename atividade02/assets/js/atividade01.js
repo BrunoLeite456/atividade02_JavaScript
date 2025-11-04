@@ -16,8 +16,8 @@ msgDuracao.innerText = `Duracao: ${horas} horas(s) e ${minutos}min.`;
 
 
 
-let botao = document.querySelector('#botao-01');
-botao.addEventListener('click', function(){
+let botao1 = document.querySelector('#botao-01');
+botao1.addEventListener('click', function(){
 calculo();
 
 })
